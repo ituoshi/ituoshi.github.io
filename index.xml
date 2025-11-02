@@ -2,18 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>庄尼李的博客</title>
-        <link>https://ituoshi.github.io/</link>
+        <link>http://localhost:1313/</link>
         <description>Recent content on 庄尼李的博客</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>庄尼李-JohnnyLi</copyright>
-        <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://ituoshi.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 02 Nov 2025 11:37:56 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>关于网站重新启动与一点琐事</title>
+        <link>http://localhost:1313/p/%E5%85%B3%E4%BA%8E%E7%BD%91%E7%AB%99%E9%87%8D%E6%96%B0%E5%90%AF%E5%8A%A8%E4%B8%8E%E4%B8%80%E7%82%B9%E7%90%90%E4%BA%8B/</link>
+        <pubDate>Sun, 02 Nov 2025 11:37:56 +0800</pubDate>
+        
+        <guid>http://localhost:1313/p/%E5%85%B3%E4%BA%8E%E7%BD%91%E7%AB%99%E9%87%8D%E6%96%B0%E5%90%AF%E5%8A%A8%E4%B8%8E%E4%B8%80%E7%82%B9%E7%90%90%E4%BA%8B/</guid>
+        <description>&lt;h1 id=&#34;关于网站重新启动与一点琐事&#34;&gt;关于网站重新启动与一点琐事
+&lt;/h1&gt;&lt;h2 id=&#34;一简述关于网站重新启动&#34;&gt;一、简述（关于网站重新启动）
+&lt;/h2&gt;&lt;p&gt;​		我已经很久没有碰与代码有关的东西了，似乎这股热情之火从五年级一直烧到七年级，直到最后变成看不到光亮。最后的火焰烧到了构建一个个人博客（当时我还热衷于研究Godot游戏引擎），是今年寒假的时候，我根据教程使用了轻量且操作简单的hugo，并选择了一个二次元风的主题（作者为D-Sketon），然后便开始搭建我的博客。&lt;/p&gt;
+&lt;p&gt;​		Hugo 比 Hexo 容易许多（即使我在这之前没用过 Hexo ），但我仍然花了挺长时间学习。基本框架做好了，我在QQ空间发了几条说说宣传我的博客，那时我的网名还叫「庄尼李」，英文名一般使用「JohnnyLi」。我不知道的是这个网名最终成为我在QQ，或者说在整个互联网上最有影响力的名称了，可能是因为我使用「庄尼李」的时间很长并且在那时加了很多群，结识了许多网友，以至于我现在的网名「花绿青」实在无法超越当时的影响力。&lt;/p&gt;
+&lt;p&gt;​		回到正题上，那个D-Sketon制作的主题在当时有问题，点进网站的一篇博客文章后便会跳转至以localhost:1313开头的网站分页，而不是github page的分页，这导致我无法继续使用该主题。在github上提交issues后我变更换了一套比较轻量也比较常用的主题（补充一下，我的github是在2023年五年级时注册的，当时随便取了个没被占用的用户名Artinming，现在当然是觉得不太好，在以Artinming的github创建博客之后我便注册了新账户ituoshi并且将开发重心转到它身上）。&lt;/p&gt;
+&lt;p&gt;​		这套主题我感觉是不错的，B站上也有关于它的教程，现在你看到的网页就是我今年年初的成果。建立好新博客后，我搭建了评论系统，不知为何它也会在登录github以评论时自动跳转至以localhost:1313开头的分页，这个问题现在还没解决。&lt;/p&gt;
+&lt;p&gt;​		然后随后这个项目便搁置了，搁置了很久，我的兴趣爱好也发生了转变，我开始喜欢上了音乐和语言学，便忘记了这个博客了（当时喜欢折腾Linux的兴趣似乎也不多了），不过我认为，博客并非是IT技术人员独有的，它是记录生活的很好的途径，我要重新启动这个网站并开始不定期发表博客文章。&lt;/p&gt;
+&lt;h2 id=&#34;二一点琐事&#34;&gt;二、一点琐事
+&lt;/h2&gt;&lt;p&gt;​		升入初二，我的学习生活有了很大程度的改变，用在网络上的时间自然在减少。我现在的兴趣爱好恐怕发生了巨大的转变，我开始热衷于语言学、政治、和些许的Anime文化。在此感谢你现在能来到这个网站，我们可能是曾经志同道合的伙伴，或者是好不相识的陌生人，但是我仍然很感激每个能欣赏我的成果的朋友！&lt;/p&gt;
+&lt;h3 id=&#34;全文完&#34;&gt;（全文完）
+&lt;/h3&gt;</description>
+        </item>
+        <item>
+        <title>期中考试前的周末</title>
+        <link>http://localhost:1313/p/%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E5%89%8D%E7%9A%84%E5%91%A8%E6%9C%AB/</link>
+        <pubDate>Sat, 19 Apr 2025 22:03:16 +0800</pubDate>
+        
+        <guid>http://localhost:1313/p/%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E5%89%8D%E7%9A%84%E5%91%A8%E6%9C%AB/</guid>
+        <description>&lt;h2 id=&#34;一点琐事&#34;&gt;一点琐事
+&lt;/h2&gt;&lt;p&gt;​		期中考简直是有一次心灵的折磨，从上学期开学到现在已经考过五次试了，从原来的年段第一掉到第十，我感觉自己真是快要不行了。周末想背历史提纲，确一次拖着一次，但最近一次历史考试感觉良好。&lt;/p&gt;
+&lt;p&gt;（额，我怎么写过这种东西啊，本人于2025年11月2日回望半年前的若只的自己，以上的是当时的原文）&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Chinese Test</title>
-        <link>https://ituoshi.github.io/p/test-chinese/</link>
+        <link>http://localhost:1313/p/test-chinese/</link>
         <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
         
-        <guid>https://ituoshi.github.io/p/test-chinese/</guid>
-        <description>&lt;img src="https://ituoshi.github.io/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post Chinese Test" /&gt;&lt;h2 id=&#34;正文测试&#34;&gt;正文测试
+        <guid>http://localhost:1313/p/test-chinese/</guid>
+        <description>&lt;img src="http://localhost:1313/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post Chinese Test" /&gt;&lt;h2 id=&#34;正文测试&#34;&gt;正文测试
 &lt;/h2&gt;&lt;p&gt;而这些并不是完全重要，更加重要的问题是， 带着这些问题，我们来审视一下学生会退会。 既然如何， 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 我们不得不面对一个非常尴尬的事实，那就是， 可是，即使是这样，学生会退会的出现仍然代表了一定的意义。 学生会退会，发生了会如何，不发生又会如何。 经过上述讨论， 生活中，若学生会退会出现了，我们就不得不考虑它出现了的事实。 学生会退会，到底应该如何实现。 这样看来， 在这种困难的抉择下，本人思来想去，寝食难安。 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 就我个人来说，学生会退会对我的意义，不能不说非常重大。 莎士比亚曾经提到过，人的一生是短的，但如果卑劣地过这一生，就太长了。这似乎解答了我的疑惑。 莫扎特说过一句富有哲理的话，谁和我一样用功，谁就会和我一样成功。这启发了我， 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 学生会退会，到底应该如何实现。 一般来说， 从这个角度来看， 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。 在这种困难的抉择下，本人思来想去，寝食难安。 了解清楚学生会退会到底是一种怎么样的存在，是解决一切问题的关键。 一般来说， 生活中，若学生会退会出现了，我们就不得不考虑它出现了的事实。 问题的关键究竟为何？ 而这些并不是完全重要，更加重要的问题是。&lt;/p&gt;
 &lt;p&gt;奥斯特洛夫斯基曾经说过，共同的事业，共同的斗争，可以使人们产生忍受一切的力量。　带着这句话，我们还要更加慎重的审视这个问题： 一般来讲，我们都必须务必慎重的考虑考虑。 既然如此， 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。 带着这些问题，我们来审视一下学生会退会。 我认为， 我认为， 在这种困难的抉择下，本人思来想去，寝食难安。 问题的关键究竟为何？ 每个人都不得不面对这些问题。 在面对这种问题时， 要想清楚，学生会退会，到底是一种怎么样的存在。 我认为， 既然如此， 每个人都不得不面对这些问题。 在面对这种问题时， 那么， 我认为， 学生会退会因何而发生。&lt;/p&gt;
 &lt;h2 id=&#34;引用&#34;&gt;引用
@@ -25,10 +54,10 @@
 &lt;p&gt;&lt;em&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=3aypp_YlBzI&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;最暖的憂傷 - 田馥甄&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
 &lt;h2 id=&#34;图片&#34;&gt;图片
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://ituoshi.github.io/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash.jpg&#34;
 	width=&#34;667&#34;
 	height=&#34;1000&#34;
-	srcset=&#34;https://ituoshi.github.io/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash_hu_e98fca2b4272416e.jpg 480w, https://ituoshi.github.io/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash_hu_e3d37c9ded115b12.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash_hu_e98fca2b4272416e.jpg 480w, http://localhost:1313/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash_hu_e3d37c9ded115b12.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Photo by Florian Klauer on Unsplash&#34;
@@ -38,10 +67,10 @@
 		data-flex-grow=&#34;66&#34;
 		data-flex-basis=&#34;160px&#34;
 	
-&gt;  &lt;img src=&#34;https://ituoshi.github.io/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash.jpg&#34;
+&gt;  &lt;img src=&#34;http://localhost:1313/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;667&#34;
-	srcset=&#34;https://ituoshi.github.io/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash_hu_e13c58d5189f892c.jpg 480w, https://ituoshi.github.io/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash_hu_8fc948b7ee525251.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash_hu_e13c58d5189f892c.jpg 480w, http://localhost:1313/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash_hu_8fc948b7ee525251.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Photo by Luca Bravo on Unsplash&#34;
@@ -52,10 +81,10 @@
 		data-flex-basis=&#34;359px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ituoshi.github.io/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
-	srcset=&#34;https://ituoshi.github.io/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash_hu_503c0ebcc5245e10.jpg 480w, https://ituoshi.github.io/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash_hu_48c98de55fb3c999.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash_hu_503c0ebcc5245e10.jpg 480w, http://localhost:1313/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash_hu_48c98de55fb3c999.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Photo by Helena Hertz on Unsplash&#34;
@@ -65,10 +94,10 @@
 		data-flex-grow=&#34;133&#34;
 		data-flex-basis=&#34;320px&#34;
 	
-&gt;  &lt;img src=&#34;https://ituoshi.github.io/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash.jpg&#34;
+&gt;  &lt;img src=&#34;http://localhost:1313/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash.jpg&#34;
 	width=&#34;667&#34;
 	height=&#34;1000&#34;
-	srcset=&#34;https://ituoshi.github.io/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash_hu_f81a3588c5c4a663.jpg 480w, https://ituoshi.github.io/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash_hu_1c52ba2a4ad7b9a0.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash_hu_f81a3588c5c4a663.jpg 480w, http://localhost:1313/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash_hu_1c52ba2a4ad7b9a0.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Photo by Hudai Gayiran on Unsplash&#34;
@@ -97,19 +126,19 @@
         </item>
         <item>
         <title>归档</title>
-        <link>https://ituoshi.github.io/archives/</link>
+        <link>http://localhost:1313/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://ituoshi.github.io/archives/</guid>
+        <guid>http://localhost:1313/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>Markdown Syntax Guide</title>
-        <link>https://ituoshi.github.io/p/markdown-syntax-guide/</link>
+        <link>http://localhost:1313/p/markdown-syntax-guide/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://ituoshi.github.io/p/markdown-syntax-guide/</guid>
-        <description>&lt;img src="https://ituoshi.github.io/p/markdown-syntax-guide/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post Markdown Syntax Guide" /&gt;&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
+        <guid>http://localhost:1313/p/markdown-syntax-guide/</guid>
+        <description>&lt;img src="http://localhost:1313/p/markdown-syntax-guide/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post Markdown Syntax Guide" /&gt;&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
 &lt;h2 id=&#34;headings&#34;&gt;Headings
 &lt;/h2&gt;&lt;p&gt;The following HTML &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt;—&lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; elements represent six levels of section headings. &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt; is the highest section level while &lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; is the lowest.&lt;/p&gt;
 &lt;h1 id=&#34;h1&#34;&gt;H1
@@ -333,11 +362,11 @@
         </item>
         <item>
         <title>Placeholder Text</title>
-        <link>https://ituoshi.github.io/p/placeholder-text/</link>
+        <link>http://localhost:1313/p/placeholder-text/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://ituoshi.github.io/p/placeholder-text/</guid>
-        <description>&lt;img src="https://ituoshi.github.io/p/placeholder-text/matt-le-SJSpo9hQf7s-unsplash.jpg" alt="Featured image of post Placeholder Text" /&gt;&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;
+        <guid>http://localhost:1313/p/placeholder-text/</guid>
+        <description>&lt;img src="http://localhost:1313/p/placeholder-text/matt-le-SJSpo9hQf7s-unsplash.jpg" alt="Featured image of post Placeholder Text" /&gt;&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;
 &lt;p&gt;Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Exierant elisi ambit vivere dedere&lt;/li&gt;
@@ -364,10 +393,10 @@
         </item>
         <item>
         <title>Math Typesetting</title>
-        <link>https://ituoshi.github.io/p/math-typesetting/</link>
+        <link>http://localhost:1313/p/math-typesetting/</link>
         <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://ituoshi.github.io/p/math-typesetting/</guid>
+        <guid>http://localhost:1313/p/math-typesetting/</guid>
         <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;
 &lt;p&gt;In this example we will be using &lt;a class=&#34;link&#34; href=&#34;https://katex.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;KaTeX&lt;/a&gt;&lt;/p&gt;
@@ -404,11 +433,11 @@ $$</description>
         </item>
         <item>
         <title>Emoji Support</title>
-        <link>https://ituoshi.github.io/p/emoji-support/</link>
+        <link>http://localhost:1313/p/emoji-support/</link>
         <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://ituoshi.github.io/p/emoji-support/</guid>
-        <description>&lt;img src="https://ituoshi.github.io/p/emoji-support/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post Emoji Support" /&gt;&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;
+        <guid>http://localhost:1313/p/emoji-support/</guid>
+        <description>&lt;img src="http://localhost:1313/p/emoji-support/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post Emoji Support" /&gt;&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;
 &lt;p&gt;The &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/functions/emojify/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;&lt;code&gt;emojify&lt;/code&gt;&lt;/a&gt; function can be called directly in templates or &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/templates/shortcode-templates/#inline-shortcodes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Inline Shortcodes&lt;/a&gt;.&lt;/p&gt;
@@ -435,28 +464,28 @@ $$</description>
         </item>
         <item>
         <title>关于</title>
-        <link>https://ituoshi.github.io/%E5%85%B3%E4%BA%8E/</link>
+        <link>http://localhost:1313/%E5%85%B3%E4%BA%8E/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://ituoshi.github.io/%E5%85%B3%E4%BA%8E/</guid>
+        <guid>http://localhost:1313/%E5%85%B3%E4%BA%8E/</guid>
         <description>&lt;p&gt;我是庄尼李，一名初中生
 喜欢搞IT，擅长godot游戏开发&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>搜索</title>
-        <link>https://ituoshi.github.io/search/</link>
+        <link>http://localhost:1313/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://ituoshi.github.io/search/</guid>
+        <guid>http://localhost:1313/search/</guid>
         <description></description>
         </item>
         <item>
         <title>友情链接</title>
-        <link>https://ituoshi.github.io/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</link>
+        <link>http://localhost:1313/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://ituoshi.github.io/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</guid>
+        <guid>http://localhost:1313/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</guid>
         <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
 &lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
